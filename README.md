@@ -1,2 +1,3 @@
 # myedutech
-Learning website
+Learning website.
+keep learning and growing
